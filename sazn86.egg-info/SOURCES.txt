@@ -1,0 +1,10 @@
+pyproject.toml
+setup.py
+brain_games/__init__.py
+brain_games/scripts/__init__.py
+brain_games/scripts/brain_games.py
+sazn86.egg-info/PKG-INFO
+sazn86.egg-info/SOURCES.txt
+sazn86.egg-info/dependency_links.txt
+sazn86.egg-info/entry_points.txt
+sazn86.egg-info/top_level.txt
